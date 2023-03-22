@@ -1,0 +1,14 @@
+/huntplus: Start a manhunt while giving a headstart, or use for general info on the plugin.
+/hunter: Add hunters and remove them along with other uses
+/runner: Add speedrunners and remove them along with other uses
+
+-8406065336679319468
+
+20930804
+
+/chunky start
+/chunky radius 5000
+
+geyser 皮肤
+netplus
+区块加载
